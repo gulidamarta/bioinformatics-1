@@ -1,0 +1,6 @@
+# Ignore IDEA directory
+.idea/
+
+# Ignore pychache directories
+__pycache__/
+tests/__pycache__/
