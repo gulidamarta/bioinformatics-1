@@ -1,2 +1,2 @@
-# bioinformatics_1
+# Bioninformatics 1 Assignments
 Bioinformatics 1
